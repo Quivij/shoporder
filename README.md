@@ -6,15 +6,6 @@ Chức năng chính bao gồm: quản lý sản phẩm, giỏ hàng, đơn hàng
 
 ---
 
-## 📂 Cấu trúc thư mục
-mern-lab02/
-├── client/ # ReactJS frontend
-├── server/ # Node.js backend
-├── .gitignore
-├── README.md
-└── README-full.md
-
----
 
 ## ⚙️ Yêu cầu môi trường
 
